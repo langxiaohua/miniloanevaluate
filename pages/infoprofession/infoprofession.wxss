@@ -17,7 +17,7 @@ page,
   bottom: 0;
 }
 .my_tabcontent{
-  padding-top: 20px;
+  padding-top: 20rpx;
 }
 
 .my_title{
@@ -40,7 +40,6 @@ page,
   font-size: 60rpx;
   font-family: 'Arial Black', Gadget, sans-serif;
   color: white;
-  letter-spacing: 50px;
 }
 .my_num1{
     left: 225rpx;
